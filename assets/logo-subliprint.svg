@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="96" viewBox="0 0 360 96" role="img" aria-label="SubliPrint Makers">
+  <rect x="4" y="54" width="64" height="14" rx="4" fill="#11457E"/>
+  <rect x="12" y="38" width="64" height="14" rx="4" fill="#00B2E2"/>
+  <rect x="20" y="22" width="64" height="14" rx="4" fill="#D8117B"/>
+  <path d="M86 20l2.2 4.6 5 .7-3.6 3.5.9 5.1L86 31.4 81.5 34l.9-5.1-3.6-3.5 5-.7z" fill="#FFD300"/>
+  <text x="104" y="50" fill="#11457E" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">SubliPrint</text>
+  <text x="106" y="72" fill="#D8117B" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3.5">MAKERS</text>
+</svg>

@@ -1,0 +1,10 @@
+﻿# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+.vscode/
+.idea/
+
+# Working previews (no publicar)
+assets/video-preview/

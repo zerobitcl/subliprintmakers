@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="hpap-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#16457A"/>
+      <stop offset="100%" stop-color="#08192C"/>
+    </linearGradient>
+    <radialGradient id="hpap-glow" cx="70%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#FFD300" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#FFD300" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#hpap-bg)"/>
+  <circle cx="560" cy="180" r="220" fill="url(#hpap-glow)"/>
+  <g fill="none" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="2">
+    <path d="M40 120h720M60 170h680M80 220h640M100 270h600M120 320h560"/>
+  </g>
+  
+      <rect x="500" y="210" width="200" height="130" rx="12" transform="rotate(-8 600 275)" fill="#00B2E2"/>
+      <rect x="530" y="180" width="190" height="120" rx="12" fill="#F4F7FB"/>
+      <rect x="552" y="206" width="110" height="12" rx="5" fill="#11457E"/>
+      <rect x="552" y="230" width="146" height="10" rx="5" fill="#D8117B"/>
+      <circle cx="680" cy="250" r="18" fill="#FFD300"/>
+    
+  <text x="40" y="450" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">Papelería</text>
+</svg>

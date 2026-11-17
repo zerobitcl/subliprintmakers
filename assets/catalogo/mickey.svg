@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="mk-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#123864"/>
+      <stop offset="48%" stop-color="#0C2746"/>
+      <stop offset="100%" stop-color="#08192C"/>
+    </linearGradient>
+    <linearGradient id="mk-hot" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD300"/>
+      <stop offset="100%" stop-color="#FFD300"/>
+    </linearGradient>
+    <radialGradient id="mk-glow" cx="50%" cy="42%" r="48%">
+      <stop offset="0%" stop-color="#FFD300" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#FFD300" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#mk-bg)"/>
+  <circle cx="400" cy="430" r="280" fill="url(#mk-glow)"/>
+  <g fill="none" stroke="#7FE7FF" stroke-opacity="0.18" stroke-width="2">
+    <path d="M70 250h660M90 290h620M110 330h580M130 370h540M150 410h500M170 450h460M190 490h420M210 530h380"/>
+  </g>
+  
+      <ellipse cx="400" cy="710" rx="180" ry="26" fill="#FFD300" opacity="0.16"/>
+      <rect x="285" y="390" width="230" height="270" rx="36" fill="#F4F7FB"/>
+      <rect x="305" y="410" width="190" height="230" rx="26" fill="#11457E"/>
+      <rect x="360" y="360" width="80" height="22" rx="8" fill="#00B2E2"/>
+      <rect x="378" y="448" width="44" height="10" rx="5" fill="#FFD300"/>
+      <circle cx="400" cy="560" r="34" fill="#FFD300"/>
+      <circle cx="400" cy="560" r="16" fill="#11457E"/>
+      <rect x="300" y="676" width="200" height="26" rx="7" fill="#00B2E2"/>
+    
+  <rect x="0" y="820" width="800" height="180" fill="#061422" fill-opacity="0.35"/>
+  <text x="56" y="890" fill="#FFD300" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="3">DECORACIÓN + AHORRO</text>
+  <text x="56" y="944" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700">Alcancía 3D</text>
+</svg>
