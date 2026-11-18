@@ -584,6 +584,11 @@ h3 {
   object-fit: cover;
 }
 
+/* Encuadre hacia cara / diseño, no pecho / base */
+.plate--1 .plate__media img { object-position: center 12%; }
+.plate--2 .plate__media img { object-position: center 28%; }
+.plate--3 .plate__media img { object-position: center 22%; }
+
 .plate__meta {
   position: absolute;
   z-index: 2;
